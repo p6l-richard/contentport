@@ -35,7 +35,7 @@
 
 ---
 
-# **contentport — public roadmap (last updated: 29th Nov 2025)**
+# contentport
 
 ## Getting Started
 
@@ -47,6 +47,9 @@
   <a href="https://console.neon.tech/signup"><img src="https://img.shields.io/badge/Sign%20up-Neon%20Database-00e599?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyeiIvPjwvc3ZnPg==" alt="Sign up for Neon" /></a>
 
   Or, if you prefer the CLI: `neonctl databases create --name contentport` ([Neon CLI docs](https://neon.com/docs/reference/cli-databases))
+
+- **`NEXT_PUBLIC_POSTHOG_KEY`** — A PostHog project API key for analytics.
+  <a href="https://us.posthog.com/signup"><img src="https://img.shields.io/badge/Sign%20up-PostHog-1d4aff?style=for-the-badge&logo=posthog&logoColor=white" alt="Sign up for PostHog" /></a>
 
 ### Follow along
 
@@ -76,9 +79,11 @@
 
 ---
 
-## **Features in Pipeline**
+## **Public Roadmap** (last updated: 29th Nov 2025)
 
-### **Priority 1**
+### **Features in Pipeline**
+
+#### **Priority 1**
 
 * Dark mode (requested by many users)
 * Responsive layout (requested by many users)
@@ -108,7 +113,7 @@
 
 ---
 
-### **Priority 2**
+#### **Priority 2**
 
 * Switch between different LLMs — personal wish (Jo)
 * Personalized example ideas (similar to the OpenAI Atlas Browser) — requested by many
@@ -116,14 +121,14 @@
 
 ---
 
-### **Priority 3**
+#### **Priority 3**
 
 * Viral tweet library (potentially useful feature)
 * Enable web browsing (potentially useful feature)
 
 ---
 
-## **Bugs**
+### **Bugs**
 
 * Timezone issues / “-1 days” calendar error
 * Creating transcripts from videos
@@ -132,7 +137,7 @@
 
 ---
 
-## **Improvements**
+### **Improvements**
 
 * Assistant style handling
 * Upgrade modal / paywall / email flow
