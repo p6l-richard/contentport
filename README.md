@@ -1,5 +1,44 @@
 # **contentport — public roadmap (last updated: 29th Nov 2025)**
 
+## Getting Started
+
+> **Note:** This is a WIP and not comprehensive. Please contribute an improvement if you want to help others getting started or us to offer a better onboarding experience.
+
+### Prerequisites
+
+- **`DATABASE_URL`** — A serverless Postgres database. This project uses Drizzle with the PostgreSQL dialect.
+  <a href="https://console.neon.tech/signup"><img src="https://img.shields.io/badge/Sign%20up-Neon%20Database-00e599?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyeiIvPjwvc3ZnPg==" alt="Sign up for Neon" /></a>
+
+  Or, if you prefer the CLI: `neonctl databases create --name contentport` ([Neon CLI docs](https://neon.com/docs/reference/cli-databases))
+
+### Follow along
+
+1. **Download the source code.** Clone the repo locally:
+   ```bash
+   gh repo clone joschan21/contentport
+   # or via HTTPS
+   git clone https://github.com/joschan21/contentport.git
+   ```
+2. **Configure secrets.** Set environment variables:
+   ```bash
+   cp .env.example .env
+   ```
+   Then fill in the keys obtained from [Prerequisites](#prerequisites) (at minimum `DATABASE_URL`).
+3. **Install dependencies:**
+   ```bash
+   bun i
+   ```
+4. **Push the database schema:**
+   ```bash
+   bun db:push
+   ```
+5. **Run the development server:**
+   ```bash
+   bun dev
+   ```
+
+---
+
 ## **Features in Pipeline**
 
 ### **Priority 1**
