@@ -39,7 +39,7 @@
 
 ## Getting Started
 
-> **Note:** This is a WIP and not comprehensive. Please contribute an improvement if you want to help others getting started or us to offer a better onboarding experience.
+> **Note:** This is a WIP and not comprehensive. Please contribute an improvement if you want to help others get started or us to offer a better onboarding experience.
 
 ### Prerequisites
 
