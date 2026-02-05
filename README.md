@@ -1,3 +1,40 @@
+<!-- PROJECT LOGO -->
+<p align="center">
+  <a href="https://github.com/contentport">
+   <img src="https://www.contentport.io/logo.png" alt="Contentport Logo" width="120">
+  </a>
+
+  <h3 align="center">Contentport</h3>
+
+  <p align="center">
+    Your content engine for growing on Twitter
+    <br />
+    <a href="https://www.contentport.io"><strong>Create and schedule Twitter content at scale »</strong></a>
+    <br />
+    <br />
+    <a href="https://www.contentport.io">Website</a>
+    ·
+    <a href="https://www.contentport.io/features">Features</a>
+    ·
+    <a href="https://github.com/contentport/issues">Issues</a>
+    ·
+    <a href="https://www.contentport.io/pricing">Pricing</a>
+  </p>
+</p>
+
+<p align="center">
+   <a href="https://www.contentport.io"><img src="https://img.shields.io/badge/Website-contentport.io-2ea44f" alt="Website"></a>
+   <a href="https://twitter.com/contentport"><img src="https://img.shields.io/badge/Twitter-@contentport-1DA1F2?logo=twitter" alt="Twitter"></a>
+   <a href="https://github.com/contentport"><img src="https://img.shields.io/badge/Open%20Source-100%25-brightgreen" alt="Open Source"></a>
+</p>
+
+<p align="center">
+   <a href="https://github.com/contentport/stargazers"><img src="https://img.shields.io/github/stars/contentport" alt="Github Stars"></a>
+   <a href="https://github.com/contentport/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="License"></a>
+</p>
+
+---
+
 # **contentport — public roadmap (last updated: 29th Nov 2025)**
 
 ## Getting Started
